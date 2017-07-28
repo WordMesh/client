@@ -1,0 +1,11 @@
+{
+  "name": "King's Church Didcot",
+  "slug": "kings",
+  "ccli": "1234455",
+  "sources": [
+    {
+      "type": "trello",
+      "boardId": "23345335464"
+    }
+  ]
+}

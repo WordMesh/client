@@ -1,0 +1,99 @@
+{
+  "source": "trello:idBoard:idList",
+  "title": "My Test Set",
+  "items": [
+    {
+      "type": "text",
+      "content": "Hello and welcome to this service"
+    },
+    {
+      "type": "song",
+      "title": "Come People of the Risen King",
+      "author": "Keith & Kristyn Getty & Stuart Townend",
+      "content": {
+        "v1": [
+          "Come, people of the Risen King,",
+          "Who delight to bring Him praise;",
+          "Come all and tune your hearts to sing",
+          "To the Morning Star of grace.",
+          "From the shifting shadows of the earth",
+          "We will lift our eyes to Him,",
+          "Where steady arms of mercy reach",
+          "To gather children in. "
+        ],
+        "c": [
+          "Rejoice, Rejoice! Let every tongue rejoice! ",
+          "One heart, one voice; O Church of Christ, rejoice!"
+        ],
+        "v2": [
+          "Come, those whose joy is morning sun,",
+          "And those weeping through the night;",
+          "Come, those who tell of battles won,",
+          "And those struggling in the fight.",
+          "For His perfect love will never change,",
+          "And His mercies never cease,",
+          "But follow us through all our days",
+          "With the certain hope of peace."
+        ],
+        "v3": [
+          "Come, young and old from every land -",
+          "Men and women of the faith;",
+          "Come, those with full or empty hands -",
+          "Find the riches of His grace.",
+          "Over all the world, His people sing -",
+          "Shore to shore we hear them call",
+          "The Truth that cries through every age:",
+          "“Our God is all in all”"
+        ]
+      },
+      "order": "v1 c v2 c v3 c"
+    },
+    {
+      "type": "song",
+      "title": "Good, Good Father",
+      "author": "Chris Tomlin",
+      "content": {
+        "v1": [
+          "I've heard a thousand stories",
+          "Of what they think You're like",
+          "But I've heard the tender whisper",
+          "Of love in the dead of night",
+          "And You tell me that You're pleased",
+          "And that I'm never alone"
+        ],
+        "c": [
+          "You're a good, good Father, ",
+          "It's who You are, it's who You are,",
+          "It's who You are",
+          "And I'm loved by You",
+          "It's who I am, it's who I am",
+          "It's who I am"
+        ],
+        "v2": [
+          "Oh and I've seen many searching for",
+          "Answers far and wide",
+          "But I know we're all searching ",
+          "for answers only You provide",
+          "Because You know just what we need",
+          "Before we say a word"
+        ],
+        "b": [
+          "Because You are perfect in all of Your ways",
+          "You are perfect in all of Your ways",
+          "You are perfect in all of Your ways",
+          "To us"
+        ],
+        "v3": [
+          "Oh this Love so undeniable",
+          "I, I can hardly speak",
+          "Peace so unexplainable",
+          "I, I can hardly think",
+          "As You call me, deeper still",
+          "As You call me deeper still",
+          "As You call me deeper still Into love, love, love"
+        ]
+      },
+      "order": "v1 c v2 c b b v3 c c"
+    }
+  ]
+}
